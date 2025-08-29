@@ -17,7 +17,7 @@ The main features are
 #if defined(_WIN32) || defined(__WIN32__) || defined(WIN32)
 #include <windows.h>
 #else
-#  error MTPASLE763's OpenFX is for Windows only, bro.
+#  error WeirdDuology OFX is for Windows only, bro.
 #endif
 
 #include <stdio.h>
@@ -30,11 +30,11 @@ The main features are
 #include "ofxsProcessing.H"
 #include "ofxsMatrix2D.h"
 
-#define kPluginName "Saturation"
-#define kPluginGrouping "MTPASLE763"
+#define kPluginName "WeirdDuology Saturation"
+#define kPluginGrouping "WeirdDuology OFX"
 #define kPluginDescription "Saturates old film."
 
-#define kPluginIdentifier "com.mtpasle763.saturation"
+#define kPluginIdentifier "com.weirdduology.saturation"
 #define kPluginVersionMajor 1
 #define kPluginVersionMinor 0
 
