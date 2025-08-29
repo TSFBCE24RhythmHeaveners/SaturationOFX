@@ -1,4 +1,4 @@
-# TooWeirdDuologyOFX SaturationOFX
+# WeirdDuologyOFX SaturationOFX
 
 This repository serves as a starting point for creating OpenFX effects using modern tools and practices. It includes a sample effect, `invert.cpp`, which has been adapted from the [official OpenFX repository](https://github.com/AcademySoftwareFoundation/openfx) and updated to use modern C++ standards.
 
